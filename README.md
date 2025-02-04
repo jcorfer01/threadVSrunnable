@@ -2,10 +2,7 @@
 The main purpose for this project is to show the difference between creating a class that
 implements the interface Runnable and another one that extends the class Thread.
 <br>
-Although it is not directly shown in the project, the class that extends Thread can't extend any other
-class because how inheritance works in Java, allowing just one class being extended. On the other hand,
-the class that implements Runnable can extend any other class because a single class can implement any
-number of interfaces.
+Although it is not directly shown in the project, the class that extends Thread can't extend any other class because of how inheritance works in Java, allowing just one class to be extended. On the other hand, the class that implements Runnable can extend any other class because a single class can implement any number of interfaces.
 <br><br>
 ## Classes
 <ul>
